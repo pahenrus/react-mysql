@@ -1,7 +1,7 @@
 {
   "name": "pahenrus/react-mysqli",
   "description": "Asynchronous & non-blocking MySQL driver for React.PHP",
-  "license": "None",
+  "license": "MIT",
   "authors": [
     {
       "name": "Pavel Kozlov",
